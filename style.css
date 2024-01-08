@@ -48,4 +48,5 @@ body{
 .head .container .text p a{
     font-size: 25px;
     font-weight: bold;
+    text-decoration: none;
 }
